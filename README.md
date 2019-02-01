@@ -2,12 +2,13 @@
 
 A friendly and ambitious person with successful sales experience and a positive, confident approach. Able to work well both in teams and on own initiative. Looking for a role where i can learn and apply my programming knowledge. Currently learning to code at Makers Academy.
 
-##Skills
+## Skills
 
 **communication**
+
 Consistently provided good customer service in my job, also been awarded for giving best customer service from customer feedbacks.
 
-##Education
+## Education
 
 **Makers Academy (January2019 - April 2019)**
 
@@ -25,7 +26,7 @@ Consistently provided good customer service in my job, also been awarded for giv
 
  *Modules completed: Constitutional Law, Criminal Law,   Tort Law and Contract Law*
 
-##Work Experience
+## Work Experience
 
 **Marks and Spencer plc (February 2010 to present)**
 
