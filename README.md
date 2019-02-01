@@ -1,50 +1,39 @@
-## Your Name
+## Anuluxmy Arungunasekaran
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
+A friendly and ambitious person with successful sales experience and a positive, confident approach. Able to work well both in teams and on own initiative. Looking for a role where i can learn and apply my programming knowledge. Currently learning to code at Makers Academy.
 
-## Skills
+##Skills
 
-#### This Skill
+**communication**
+Consistently provided good customer service in my job, also been awarded for giving best customer service from customer feedbacks.
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+##Education
 
-- Experience
-- Achievements
-- Evidence
+**Makers Academy (January2019 - April 2019)**
 
-#### Another Skill
+ * Pair-programming
+ * OOP, TDD, MVC, DDD
+ * AGILE/XP
+ * Ruby, Rails, JavaScript
+ * RSpec, Jasmine
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+ **IATA India(2008 - 2009)**
 
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+ *Completed Diploma in IATA foundation and Air Ticketing.*
 
-## Education
+**London Metropolitan University (Oct 2004 - dec 2006 incomplete)**
 
-#### Makers Academy (start_date to end_date)
+ *Modules completed: Constitutional Law, Criminal Law,   Tort Law and Contract Law*
 
-- Curious and passionate about code. [PROVIDE EVIDENCE]
-- Fast, independent learner [PROVIDE EVIDENCE]
-- Great collaborator [PROVIDE EVIDENCE]
+##Work Experience
 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+**Marks and Spencer plc (February 2010 to present)**
 
-#### Your University / College (start_date to end_date)
+**Customer Assistant**
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+## Hobbies and Interests
 
-#### Any other qualifications
-
-## Experience
-
-**Company Name** (start_date to end_date)    
-*Your job title*  
-**Company Name** (start_date to end_date)   
-*Your job title*  
+* **Photography**
+* **Baking**
+* **Designing clothes**
+* **Gardening**
