@@ -16,7 +16,7 @@ Consistently provided good customer service in my job, also been awarded for giv
 
 **Analytical Mind**
 
-I love learning new things constantly. I was able to demonstrate this during my time at Makers when I worked with several new technologies (Node.js, Python) and had to pick them up within a short space of time.
+I love learning new things constantly. I was able to demonstrate this during my time at Makers when I worked with new technologies (Node.js, Python) and had to pick them up within a short space of time.
 
 ## Projects
 
