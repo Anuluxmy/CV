@@ -3,8 +3,9 @@
 <a href="https://anuluxmy.wordpress.com/">
 <img src="https://camo.githubusercontent.com/fa348a62cd992c8a9d1a72fa32ea6d1197ed2cf2/68747470733a2f2f64617368626f6172642e736e617063726166742e696f2f736974655f6d656469612f6170706d656469612f323031372f30342f7770636f6d2e706e67" alt="medium" hspace="50" height="42" width="42"></a>
 <a href="https://www.linkedin.com/in/anuluxmy-a-06b700183/">
-<img src="https://www.iconfinder.com/data/icons/free-social-icons/67/linkedin_circle_color-512.png" alt="linkedin" hspace="50" height="42" width="42"></a></p>
-<div align="center">	</div>
+<img src="https://www.iconfinder.com/data/icons/free-social-icons/67/linkedin_circle_color-512.png" alt="linkedin" hspace="50" height="42" width="42"></a>
+</p>
+<!-- <div align="center"></div> -->
 
 
 A friendly and ambitious person with successful sales experience and a positive, confident approach. Able to work well both in teams and on own initiative. Looking for a role where i can learn and apply my programming knowledge.
@@ -17,6 +18,8 @@ Currently learning to code at Makers Academy.
 Consistently provided good customer service in my job, also been awarded for giving best customer service from customer feedbacks.
 
 **Analytical Mind**
+
+I love learning new things constantly. I was able to demonstrate this during my time at Makers when I worked with several new technologies (Node.js, Python) and had to pick them up within a short space of time.
 
 ## Projects
 
