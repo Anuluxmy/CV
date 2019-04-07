@@ -1,6 +1,6 @@
-<h1 align="center">Anuluxmy A</h1>
+## Anuluxmy A
 
-[Skills](#skills) | [Projects](#projects) | [Education](#education) | [Work Experience](#experience) | [Interests](#interests) | [Contact Me](#contact-me)
+[Skills](#skills) | [Projects](#projects) | [Education](#education) | [Work Experience](#work experience) | [Interests](#interests) | [Contact Me](#contact-me)
 
 <!-- <div align="center"></div> -->
 
