@@ -1,10 +1,6 @@
 <h1 align="center">Anuluxmy A</h1>
-<p align="center">
-<a href="https://anuluxmy.wordpress.com/">
-<img src="https://camo.githubusercontent.com/fa348a62cd992c8a9d1a72fa32ea6d1197ed2cf2/68747470733a2f2f64617368626f6172642e736e617063726166742e696f2f736974655f6d656469612f6170706d656469612f323031372f30342f7770636f6d2e706e67" alt="medium" hspace="50" height="42" width="42"></a>
-<a href="https://www.linkedin.com/in/anuluxmy-a-06b700183/">
-<img src="https://www.iconfinder.com/data/icons/free-social-icons/67/linkedin_circle_color-512.png" alt="linkedin" hspace="50" height="42" width="42"></a>
-</p>
+[Skills](#skills) | [Projects](#projects) | [Education](#education) | [Work Experience](#experience) | [Interests](#interests) | [Contact Me](#contact-me)
+
 <!-- <div align="center"></div> -->
 
 
@@ -73,9 +69,20 @@ For a complete list, see my [GitHub](https://github.com/Anuluxmy).
 * Answering calls
 * Filing paperworks
 
-## Hobbies and Interests
+## Interests
 
 * **Photography**
 * **Baking**
 * **Designing clothes**
 * **Gardening**
+
+## Contact Me
+<p align="center">
+
+<a href="mailto:anuluxmy.t@hotmail.com">
+<img src="http://icons.iconarchive.com/icons/martz90/circle/128/outlook-icon.png" alt="hotmail" hspace="50" height="42" width="42"></a>
+<a href="https://anuluxmy.wordpress.com/">
+<img src="https://camo.githubusercontent.com/fa348a62cd992c8a9d1a72fa32ea6d1197ed2cf2/68747470733a2f2f64617368626f6172642e736e617063726166742e696f2f736974655f6d656469612f6170706d656469612f323031372f30342f7770636f6d2e706e67" alt="wordpress" hspace="50" height="42" width="42"></a>
+<a href="https://www.linkedin.com/in/anuluxmy-a-06b700183/">
+<img src="https://www.iconfinder.com/data/icons/free-social-icons/67/linkedin_circle_color-512.png" alt="linkedin" hspace="50" height="42" width="42"></a>
+</p>
