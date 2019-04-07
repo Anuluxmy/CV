@@ -1,4 +1,5 @@
 <h1 align="center">Anuluxmy A</h1>
+
 [Skills](#skills) | [Projects](#projects) | [Education](#education) | [Work Experience](#experience) | [Interests](#interests) | [Contact Me](#contact-me)
 
 <!-- <div align="center"></div> -->
