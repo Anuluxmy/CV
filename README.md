@@ -5,8 +5,7 @@
 <!-- <div align="center"></div> -->
 
 
-A friendly and ambitious person with successful sales experience and a positive, confident approach. Able to work well both in teams and on own initiative. Looking for a role where i can learn and apply my programming knowledge.
-Currently learning to code at Makers Academy.
+A friendly and ambitious person with successful sales experience and a positive, confident approach. Able to work well both in teams and on own initiative. Graduated from Makers Academy, a highly selective coding bootcamp based in London. Looking for junior developer roles where i can learn and apply my programming knowledge.
 
 ## Skills
 
