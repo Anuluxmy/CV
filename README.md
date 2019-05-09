@@ -61,7 +61,7 @@ For a complete list, see my [GitHub](https://github.com/Anuluxmy).
 * Till operations
 * Training new staffs
 
-**Sam's Accountings (June 2009 - July 2009 voluntary)**
+**Sam's Accountings (June 2009 - July 2009 work experience)**
 
 *Accounts administrative assistant*
 
