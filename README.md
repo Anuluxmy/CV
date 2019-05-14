@@ -37,17 +37,17 @@ For a complete list, see my [GitHub](https://github.com/Anuluxmy).
  * Pair-programming
  * OOP, TDD, MVC, DDD
  * AGILE/XP
- * Ruby, Rails, JavaScript
- * RSpec, Jasmine
+ * Ruby, Rails, JavaScript, Python
+ * RSpec, Jasmine, Pytest, Behave
  * HTML, CSS
 
 **IATA India(2008 - 2009)**
 
- *Completed Diploma in IATA foundation and Air Ticketing.*
+ *Completed Diploma in IATA foundation in Air Ticketing and Galileo GDS.*
 
 **London Metropolitan University (October 2004 - December 2006 incomplete)**
 
- *Modules completed: Constitutional Law, Criminal Law,   Tort Law and Contract Law*
+ *Modules completed: Constitutional Law, Criminal Law, Tort Law and Contract Law*
 
 ## Work Experience
 
