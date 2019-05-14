@@ -24,7 +24,7 @@ For a complete list, see my [GitHub](https://github.com/Anuluxmy).
 | Project   | Description | Technologies |
 |---        |---         |---           |
 | [Boris-Bikes](https://github.com/Anuluxmy/Boris-Bikes) | First project at makers. | Ruby, RSpec |
-| [rps-challenge](https://github.com/Anuluxmy/rps-challenge) | Individual challenge. | Ruby, RSpec, Sinatra, Capybara |
+| [rps-challenge](https://github.com/Anuluxmy/rps-challenge) | Computer versus Player rock paper scissor game. | Ruby, RSpec, Sinatra, Capybara |
 | [Makersbnb](https://github.com/Anuluxmy/Makersbnb) | An Airbnb clone and first group project at makers following Agile methodology. Allows user to sign up, view space and request bookings.| Ruby, Sinatra, RSpec, Capybara, Data mapper |
 | [acebook](https://github.com/Anuluxmy/acebook-creators) | A group project of facebook clone which was deployed to Heroku. Allows user to sign up, posts message, can like, edit and delete post and add friend. | Ruby on Rails, Rspec, Capybara, Codeship CI, Heroku |
 
