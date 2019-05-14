@@ -11,7 +11,7 @@ A friendly and ambitious person with successful sales experience and a positive,
 
 **Communication**
 
-Consistently provided good customer service in my job, also been awarded for giving best customer service from customer feedbacks.
+Able to communicate effectively with a wide range of people, by showing interest and carefully listening to their needs. Consistently provided good customer service in my job. Also been awarded for giving excellent customer service from customer feedback survey.
 
 **Analytical Mind**
 
@@ -37,9 +37,9 @@ For a complete list, see my [GitHub](https://github.com/Anuluxmy).
  * Pair-programming
  * OOP, TDD, MVC, DDD
  * AGILE/XP
- * Ruby, Rails, JavaScript, Python
+ * Ruby, Rails, Python
  * RSpec, Jasmine, Pytest, Behave
- * HTML, CSS
+ * HTML, CSS, Javascript
 
 **IATA India(2008 - 2009)**
 
